@@ -1,7 +1,7 @@
 /**
- * Mongoose Node.js shell.
+ * Kitten example code.
  * @author: Ignacio Nieto Carvajal <contact@digitalleaves.com>
- * A convenient MongoDB command shell written in Node.js using Mongoose.
+ * A small example to illustrate how to install MongoDB on Android and run it locally, accessing it from Node.js using Mongoose.
  */
 
 //
