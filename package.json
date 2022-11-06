@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cat-names": "^3.1.0",
+    "mongoose": "^6.7.1"
+  }
+}
