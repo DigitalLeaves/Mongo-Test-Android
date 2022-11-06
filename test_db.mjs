@@ -109,5 +109,6 @@ try {
 		});
 	});
 } catch (e) {
-	
+	console.log(e);
+	closeConnection(() => { process.exit(-1); });
 }
